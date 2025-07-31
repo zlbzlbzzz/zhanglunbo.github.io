@@ -1,0 +1,59 @@
+{
+  "404.qmd": {
+    "404.html": "39f5894e"
+  },
+  "about/index.qmd": {
+    "index.html": "8ffd2d99"
+  },
+  "blog/2022/05/24/docker_template/index.qmd": {
+    "index.html": "29e07e12"
+  },
+  "blog/2022/12/27/quarto_tips/index.qmd": {
+    "index.html": "c2056b29"
+  },
+  "blog/2023/04/30/quarto_multi_lang/index.qmd": {
+    "index.html": "47cf75b2"
+  },
+  "blog/2023/06/10/quarto_com_model/index.qmd": {
+    "index.html": "0680b628"
+  },
+  "blog/2023/09/06/docker_template/index.qmd": {
+    "index.html": "7a6d3550"
+  },
+  "blog/2024/04/05/index.qmd": {
+    "index.html": "eb42e1e0"
+  },
+  "blog/2024/04/29/index.qmd": {
+    "index.html": "6afd85c7"
+  },
+  "blog/2025/0426_research_workflow/index.qmd": {
+    "index.html": "14160e05"
+  },
+  "blog/index.qmd": {
+    "index.html": "76080b83"
+  },
+  "index.qmd": {
+    "index.html": "6b944cd9"
+  },
+  "research/bayan-bayanihan/index.qmd": {
+    "index.html": "f66083a4"
+  },
+  "research/common-cheetah/index.qmd": {
+    "index.html": "80d357e0"
+  },
+  "research/hetero2wfe/index.qmd": {
+    "index.html": "ec8421a1"
+  },
+  "research/icky-impala/index.qmd": {
+    "index.html": "a3b5ff4c"
+  },
+  "research/index.qmd": {
+    "index.html": "f6372278"
+  },
+  "software/index.qmd": {
+    "index.html": "c69de713"
+  },
+  "talks/index.qmd": {
+    "index.html": "974c00dd"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "listingMap": {
+    "about\\index.qmd": [
+      "../research/published/*/index.qmd",
+      "../research/working/*/index.qmd",
+      "../blog/*/**/index.qmd"
+    ],
+    "blog\\index.qmd": [
+      "2025/**/index.qmd"
+    ],
+    "research\\index.qmd": [
+      "published/*/index.qmd",
+      "working/*/index.qmd"
+    ],
+    "software\\index.qmd": [
+      "writing.yml",
+      "figure.yml",
+      "communicate.yml",
+      "ECA.yml",
+      "scholars.yml"
+    ]
+  }
+}

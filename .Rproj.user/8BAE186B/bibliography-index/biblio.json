@@ -1,0 +1,36 @@
+{
+    "sources": [
+        {
+            "DOI": "10.5281/zenodo.3960218",
+            "author": [
+                {
+                    "family": "Horst",
+                    "given": "Allison Marie"
+                },
+                {
+                    "family": "Hill",
+                    "given": "Alison Presmanes"
+                },
+                {
+                    "family": "Gorman",
+                    "given": "Kristen B"
+                }
+            ],
+            "genre": "Manual",
+            "id": "horst2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "title": "Palmerpenguins: Palmer archipelago (antarctica) penguin data",
+            "title-short": "Palmerpenguins",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}
