@@ -1,0 +1,18 @@
+---
+title: "Lunbo Zhang"
+image: /static/img/zhanglunbo.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: zhanglunbo@hnu.edu.cn
+---
+
+I am a PhD student at [Hunan University](https://www.hnu.edu.cn/).<br>
+My research fields are political, and environmental economics.
+
+
+
+::: {style="text-align: right"}
+[Read More →](../about)
+:::

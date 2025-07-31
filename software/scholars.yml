@@ -1,0 +1,81 @@
+# ---- All‑Star scholars ----------------------------------------------------
+- title: "Eric Zou"
+  description: "环境与能源经济学者｜个人主页"
+  url: "https://www.eric-zou.com/"
+  links:
+    - name: "个人主页"
+      url: "https://www.eric-zou.com/"
+      icon: "fa-solid fa-globe"
+
+- title: "GUOJUN HE（何国俊）"
+  description: "环境经济学与发展经济学｜个人主页"
+  url: "https://www.guojunhe.com/"
+  links:
+    - name: "个人主页"
+      url: "https://www.guojunhe.com/"
+      icon: "fa-solid fa-globe"
+
+- title: "Peng Zhang（张鹏）"
+  description: "劳动与发展经济学｜个人主页"
+  url: "https://pengzhang.weebly.com/"
+  links:
+    - name: "个人主页"
+      url: "https://pengzhang.weebly.com/"
+      icon: "fa-solid fa-globe"
+
+- title: "Shuo Chen（陈硕）"
+  description: "环境经济学｜个人主页"
+  url: "https://frankchenshuo.com/"
+  links:
+    - name: "个人主页"
+      url: "https://frankchenshuo.com/"
+      icon: "fa-solid fa-globe"
+
+- title: "Ray Fisman"
+  description: "政治经济学与腐败研究｜个人主页（BU）"
+  url: "https://sites.bu.edu/fisman/"
+  links:
+    - name: "个人主页"
+      url: "https://sites.bu.edu/fisman/"
+      icon: "fa-solid fa-globe"
+
+- title: "Daron Acemoglu"
+  description: "MIT 经济系｜政治经济学与技术变革"
+  url: "https://economics.mit.edu/people/faculty/daron-acemoglu"
+  links:
+    - name: "MIT 页面"
+      url: "https://economics.mit.edu/people/faculty/daron-acemoglu"
+      icon: "fa-solid fa-globe"
+
+- title: "Olivier Deschênes"
+  description: "环境经济学｜个人主页（UCSB）"
+  url: "https://www.olivierdeschenes.org/"
+  links:
+    - name: "个人主页"
+      url: "https://www.olivierdeschenes.org/"
+      icon: "fa-solid fa-globe"
+
+- title: "Daniel Yi Xu"
+  description: "产业组织与国际贸易｜杜克大学 Scholars@Duke"
+  url: "https://scholars.duke.edu/person/yi.xu"
+  links:
+    - name: "Scholars@Duke"
+      url: "https://scholars.duke.edu/person/yi.xu"
+      icon: "fa-solid fa-globe"
+
+- title: "James Kung"
+  description: "经济史与政治经济学｜个人主页"
+  url: "https://www.jameskung.net/home"
+  links:
+    - name: "个人主页"
+      url: "https://www.jameskung.net/home"
+      icon: "fa-solid fa-globe"
+
+- title: "Chen Ting"
+  description: "政治经济学与中国经济｜个人主页"
+  url: "https://www.chenting.info/"
+  links:
+    - name: "个人主页"
+      url: "https://www.chenting.info/"
+      icon: "fa-solid fa-globe"
+# --------------------------------------------------------------------------

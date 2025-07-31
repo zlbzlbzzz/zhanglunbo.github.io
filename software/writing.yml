@@ -1,0 +1,44 @@
+# ---- Reading & Writing resources ------------------------------------------
+- title: "非此即彼：社会科学研究指南"
+  description: "中文｜陈硕著——社科研究方法的实用指北"
+  url: "https://book.douban.com/subject/37029921/"
+  links:
+    - name: "豆瓣条目"
+      url: "https://book.douban.com/subject/37029921/"
+      icon: "fa-solid fa-book"
+    - name: "作者介绍"
+      url: "https://econ.fudan.edu.cn/info/1024/25817.htm"
+      icon: "fa-solid fa-globe"
+
+- title: "How to Get Started on Research in Economics"
+  description: "Steve Pischke 的入门指南（PDF）"
+  url: "https://92d1a03a-85f1-433e-9ba8-7a7d169bf635.filesusr.com/ugd/997107_43b1d0804873465981f5effd3e609751.pdf"
+  links:
+    - name: "PDF 下载"
+      url: "https://92d1a03a-85f1-433e-9ba8-7a7d169bf635.filesusr.com/ugd/997107_43b1d0804873465981f5effd3e609751.pdf"
+      icon: "fa-solid fa-file-pdf"
+
+- title: "Writing Tips for Ph.D. Students"
+  description: "John Cochrane 写作建议（PDF）"
+  url: "https://faculty.wcas.northwestern.edu/mdo738/teaching/cochrane.pdf"
+  links:
+    - name: "PDF 下载"
+      url: "https://faculty.wcas.northwestern.edu/mdo738/teaching/cochrane.pdf"
+      icon: "fa-solid fa-file-pdf"
+
+- title: "Writing the Empirical Journal Article"
+  description: "Daryl Bem 的经典论文写作指南（PDF）"
+  url: "https://psychology.yale.edu/sites/default/files/bemempirical.pdf"
+  links:
+    - name: "PDF 下载"
+      url: "https://psychology.yale.edu/sites/default/files/bemempirical.pdf"
+      icon: "fa-solid fa-file-pdf"
+
+- title: "The Ten Most Important Rules of Writing Your Job Market Paper"
+  description: "Claudia Goldin & Lawrence Katz 的十条黄金规则（PDF）"
+  url: "https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf"
+  links:
+    - name: "PDF 下载"
+      url: "https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf"
+      icon: "fa-solid fa-file-pdf"
+# ---------------------------------------------------------------------------

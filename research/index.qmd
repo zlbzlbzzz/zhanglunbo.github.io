@@ -1,0 +1,36 @@
+---
+title: "Research"
+description: "This section contains my published papers and work‑in‑progress projects"
+home: true
+listing:
+  - id: published
+    contents: "published/*/index.qmd"   # 目录示例：published/paper‑title/index.qmd
+    sort:
+      - "feature"       # 先置顶特色条目
+      - "date desc"     # 再按日期倒序
+    template: ../static/html/research/listing.ejs
+    categories: true  
+  - id: working
+    contents: "working/*/index.qmd"     # 目录示例：working/project‑title/index.qmd
+    sort:
+      - "feature"
+      - "date desc"
+    template: ../static/html/research/listing.ejs
+    categories: true  
+
+title-block-banner: "#fff"
+page-layout: full
+toc: true 
+toc-location: right
+toc-title: "Contents"
+---
+
+## Published
+
+::: {#published}
+:::
+
+## Work in Progress
+
+::: {#working}
+:::

@@ -1,0 +1,76 @@
+---
+title: "Hi There!"
+listing:
+  # ==== Research cards =====
+  - id: published
+    contents: ../research/published/*/index.qmd   # 目录：research/published/paper-title/index.qmd
+    sort:
+      - "feature"
+      - "date desc"
+    type: default
+    categories: false
+    template: ../static/html/about/research.ejs
+    max-items: 2
+  - id: working
+    contents: ../research/working/*/index.qmd     # 目录：research/working/project-title/index.qmd
+    sort:
+      - "feature"
+      - "date desc"
+    type: default
+    categories: false
+    template: ../static/html/about/research.ejs
+    max-items: 2
+  # ==== Blog cards =====
+  - id: blog
+    contents: ../blog/*/**/index.qmd
+    sort: "date desc"
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 1
+    template: ../static/html/about/blog.ejs
+
+page-layout: full
+title-block-banner: true
+---
+
+I am a PhD student at [Hunan University](https://www.hnu.edu.cn/) in Hunan, China.
+
+My research field is environmental economics; broadly speaking, I am interested in questions like:
+
+- How do higher‑level environmental mandates reshape local governments’ incentives and capacity?
+- Why do local officials differ in their responses to identical green policies?
+
+{{< fa graduation-cap >}} Ph.D. in Economics  &#8729; HNU  &#8729;  2022‑present
+
+<br>
+
+## PUBLISHED PAPERS
+
+::: {#published}
+:::
+
+::: {style="text-align: right"}
+[See All →](../research)
+:::
+
+## WORKING PAPERS
+
+::: {#working}
+:::
+
+::: {style="text-align: right"}
+[See All →](../research)
+:::
+
+## A BLOG THAT WORKS
+
+::: {#blog}
+:::
+
+::: {style="text-align: right"}
+[See All →](../blog)
+:::
+
+{{< ai blank-just-to-add-ai-dependency-to-this-page >}}

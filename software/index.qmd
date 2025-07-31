@@ -1,0 +1,56 @@
+---
+title: "Resources"
+description: "一些学习资料、论文和书籍精读与速读笔记，来自多个来源。"
+listing:
+  - id: 写作
+    contents: writing.yml   
+    sort: "date desc"
+    template: ../static/html/software/listing.ejs
+  - id: 图形可视化
+    contents: figure.yml
+    sort: "date desc"
+    template: ../static/html/software/listing.ejs
+  - id: 沟通
+    contents: communicate.yml
+    sort: "date desc"
+    template: ../static/html/software/listing.ejs
+  - id: 计量
+    contents: ECA.yml
+    sort: "date desc"
+    template: ../static/html/software/listing.ejs
+  - id: 一些学者介绍和我喜欢的文章
+    contents: scholars.yml
+    sort: "date desc"
+    template: ../static/html/software/listing.ejs
+
+title-block-banner: "#fff"
+page-layout: full
+toc: true
+toc-location: right
+toc-title: "目录"
+---
+
+## 写作
+
+::: {#写作}
+:::
+
+## 图形可视化
+
+::: {#图形可视化}
+:::
+
+## 沟通
+
+::: {#沟通}
+:::
+
+## 计量
+
+::: {#计量}
+:::
+
+## 一些学者介绍和我喜欢的文章
+
+::: {#一些学者介绍和我喜欢的文章}
+:::

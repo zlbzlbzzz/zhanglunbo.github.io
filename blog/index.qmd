@@ -1,0 +1,22 @@
+---
+title: "Blog"
+description: "My notepad to keep some technical tips for Economic research"
+author: ""
+listing:
+  - id: posts_2025
+    contents: "2025/**/index.qmd"
+    sort: "date desc"
+    template: ../static/html/blog/listing.ejs
+    categories: true
+page-layout: full
+toc-title: Year
+toc-location: right
+date-format: "MMMM D, YYYY"
+code-tools: false
+comments: false
+---
+
+## 2025
+
+:::{#posts_2025}
+:::

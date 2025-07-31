@@ -1,0 +1,64 @@
+# ---- Econometrics & Misc resources ---------------------------------------
+- title: "连玉君｜计量教材推荐"
+  description: "连老师整理的经典计量经济学教材清单（网页）"
+  url: "https://www.lianxh.cn/news/9e917d856a654.html"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bookstack.svg"
+  links:
+    - name: "查看教材清单"
+      url: "https://www.lianxh.cn/news/9e917d856a654.html"
+      icon: "fa-solid fa-globe"
+
+- title: "Awesome Causal Inference"
+  description: "Matteo Courthoud 整理的因果推断资源库（GitHub）"
+  url: "https://github.com/matteocourthoud/awesome-causal-inference"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+  links:
+    - name: "GitHub 仓库"
+      url: "https://github.com/matteocourthoud/awesome-causal-inference"
+      icon: "fa-brands fa-github"
+
+- title: "今井康介｜计量经济学系列"
+  description: "哈佛大学今井康介教授 YouTube 课程播放列表"
+  url: "https://www.youtube.com/@imaikosuke/playlists"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg"
+  links:
+    - name: "YouTube 频道"
+      url: "https://www.youtube.com/@imaikosuke/playlists"
+      icon: "fa-brands fa-youtube"
+
+- title: "Applied Methods PhD Course"
+  description: "耶鲁大学应用计量经济学博士课程（YouTube 播放列表）"
+  url: "https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg"
+  links:
+    - name: "YouTube 播放列表"
+      url: "https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ"
+      icon: "fa-brands fa-youtube"
+
+- title: "计量经济学讲义（中文）"
+  description: "施展涛教授编写的《Econometrics》中文讲义（在线版）"
+  url: "https://zhentaoshi.github.io/metrics1-cn/intro.html"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/readthedocs.svg"
+  links:
+    - name: "在线阅读"
+      url: "https://zhentaoshi.github.io/metrics1-cn/intro.html"
+      icon: "fa-solid fa-book"
+
+- title: "姗珊大王｜计量视频分享"
+  description: "B 站 Hansen 和《Mostly Harmless》系列讲解视频"
+  url: "https://space.bilibili.com/1622847013/upload/video"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bilibili.svg"
+  links:
+    - name: "Bilibili 视频"
+      url: "https://space.bilibili.com/1622847013/upload/video"
+      icon: "fa-solid fa-video"
+
+- title: "2020 AEA Continuing Education Webcasts"
+  description: "Abadie、Angrist、Walters 主讲：Mastering Mostly Harmless Econometrics（视频与资料）"
+  url: "https://www.aeaweb.org/conference/cont-ed/2020-webcasts"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/academia.svg"
+  links:
+    - name: "AEA 网页"
+      url: "https://www.aeaweb.org/conference/cont-ed/2020-webcasts"
+      icon: "fa-solid fa-globe"
+# --------------------------------------------------------------------------

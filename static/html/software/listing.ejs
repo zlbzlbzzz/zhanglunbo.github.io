@@ -1,0 +1,30 @@
+```{=html}
+<div class="softwares">
+  <% for (const item of items) { %>
+  <div class="software-entry">
+    <div class="body">
+      <p class="software-title">
+        <% if (item.url) { %>
+          <a href="<%= item.url %>" target="_blank"><%= item.title %></a>
+        <% } else { %>
+          <%= item.title %>
+        <% } %>
+      </p>
+      <p class="software-description"><%= item.description %></p>
+
+      <% if (item.links && item.links.length) { %>
+      <ul class="software-links">
+        <% for (const link of item.links) { %>
+        <li class="software-link">
+          <a href="<%- link.local ? item.path.substring(0, item.path.lastIndexOf('/')) + '/' + link.url : link.url %>">
+            <i class="<%- link.icon %>"></i> <%= link.name %>
+          </a>
+        </li>
+        <% } %>
+      </ul>
+      <% } %>
+    </div>
+  </div>
+  <% } %>
+</div>
+```

@@ -1,0 +1,19 @@
+# ---- Data Visualization resources -----------------------------------------
+- title: "An Economist’s Guide to Visualizing Data"
+  description: "Jonathan Schwabish & Robert Parker｜经济学视角的数据可视化指南（JEP 2014，PDF）"
+  url: "https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeacrobatreader.svg"
+  links:
+    - name: "PDF 下载"
+      url: "https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209"
+      icon: "fa-solid fa-file-pdf"
+
+- title: "Are Pictures Worth a Thousand Words?"
+  description: "数据可视化在经济学论文中的效果（SEJ 2020，摘要）"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0740624X19304186"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/journal.svg"
+  links:
+    - name: "ScienceDirect 页面"
+      url: "https://www.sciencedirect.com/science/article/abs/pii/S0740624X19304186"
+      icon: "fa-solid fa-globe"
+# ---------------------------------------------------------------------------

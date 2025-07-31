@@ -1,0 +1,19 @@
+# ---- Communication resources ---------------------------------------------
+- title: "How to Give a Talk v5.2"
+  description: "Paul N. Edwards｜学术演讲全攻略（PDF）"
+  url: "https://pne.people.si.umich.edu/PDF/howtotalk.pdf"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeacrobatreader.svg"
+  links:
+    - name: "PDF 下载"
+      url: "https://pne.people.si.umich.edu/PDF/howtotalk.pdf"
+      icon: "fa-solid fa-file-pdf"
+
+- title: "Discussant Tips ‑ Economics Scholars Program"
+  description: "达拉斯联储 ESP 讨论人技巧指南（PDF）"
+  url: "https://www.dallasfed.org/~/media/documents/educate/events/esp/tipsdiscussant.pdf"
+  image: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeacrobatreader.svg"
+  links:
+    - name: "PDF 下载"
+      url: "https://www.dallasfed.org/~/media/documents/educate/events/esp/tipsdiscussant.pdf"
+      icon: "fa-solid fa-file-pdf"
+# ---------------------------------------------------------------------------
