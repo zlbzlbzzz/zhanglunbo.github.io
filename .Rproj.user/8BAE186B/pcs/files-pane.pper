@@ -1,12 +1,8 @@
 {
     "sortOrder": [
         {
-            "columnIndex": 4,
-            "ascending": false
-        },
-        {
             "columnIndex": 2,
-            "ascending": false
+            "ascending": true
         }
     ],
     "path": "F:/OneDrive/lucky/个人主页/zhanglunbo.github.io-main"
