@@ -1,6 +1,6 @@
 ---
 title: "Lunbo Zhang"
-image: /static/img/zhanglunbo.jpg
+image: static/img/zhanglunbo.jpg
 about:
   template: jolla
   links:
